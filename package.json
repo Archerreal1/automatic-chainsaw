@@ -1,0 +1,8 @@
+{
+  "name": "edge-api-service",
+  "version": "1.0.0",
+  "description": "A lightweight serverless API service for handling, transforming, and routing HTTP requests",
+  "private": true,
+  "license": "MIT",
+  "type": "module"
+}
